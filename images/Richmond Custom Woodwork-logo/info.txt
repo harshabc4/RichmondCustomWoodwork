@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Courgette-Regular
+font link: https://fonts.google.com/specimen/Courgette
+font author: Karolina Lach
+font author site: http://karolinalach.com/
+
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"#5D493D","icon":"#7E8773","font":"#ffffff","slogan":"#ffffff"}
+      
